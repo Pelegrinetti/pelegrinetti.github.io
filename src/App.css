@@ -1,0 +1,8 @@
+body {
+  color: #ecf0f1;
+  background-color: #8e44ad;
+}
+
+.app-content > :not(:last-child) {
+  margin-bottom: 16px;
+}
