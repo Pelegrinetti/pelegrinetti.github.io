@@ -6,6 +6,7 @@
 	"repository": "git@github.com:Pelegrinetti/pelegrinetti.github.io.git",
 	"author": "Pelegrinetti <pelegrinetti.dev@gmail.com>",
 	"license": "MIT",
+  "packageManager": "yarn@1.22.22",
   "engines": {
     "node": ">=22",
     "yarn": "^1.22"
